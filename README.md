@@ -31,19 +31,19 @@ rock-paper-scissors-python/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/rock-paper-scissors-python.git
+git clone https://github.com/ekkux27/rock-paper-scissors-python.git
 ```
 
 ### 2. Navigate to the project directory
 
 ```bash
-cd rock-paper-scissors-python
+cd rock-paper-scissors--python
 ```
 
 ### 3. Run the game
 
 ```bash
-python game.py
+python main.py
 ```
 
 ## 📖 How to Play
@@ -90,3 +90,6 @@ Created as a Python learning project.
 ---
 
 If you enjoyed this project, consider giving the repository a ⭐!
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
