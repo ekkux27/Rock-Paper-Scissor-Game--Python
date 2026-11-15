@@ -20,7 +20,7 @@ A simple command-line Rock-Paper-Scissors game built using Python. Play against 
 
 ```text
 rock-paper-scissors-python/
-├── game.py
+├── main.py
 ├── README.md
 ├── .gitignore
 ├── LICENSE
@@ -85,7 +85,7 @@ python game.py
 
 Created as a Python learning project.
 
-**GitHub:** [YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+**GitHub:** [ekkux27](https://github.com/ekkux27)
 
 ---
 
